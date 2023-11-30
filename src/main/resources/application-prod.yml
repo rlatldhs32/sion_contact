@@ -1,0 +1,8 @@
+server:
+  port: 8181
+
+spring:
+  datasource:
+    url: jdbc:mariadb://sion-db-2.cxkk7zqoxgsi.ap-northeast-2.rds.amazonaws.com/newsion?useUnicode=true&characterEncoding=UTF-8
+    username: admin
+    password: msu298923
